@@ -1,0 +1,25 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FizzBuzz.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha .",
+    "jshint": "node_modules/jshint/bin/jshint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esinitsa/fizzbuzz.git"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "jshint": "^2.9.1",
+    "mocha": "*"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esinitsa/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/esinitsa/fizzbuzz#readme"
+}
